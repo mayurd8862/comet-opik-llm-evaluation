@@ -1,1 +1,1 @@
-## Opik LLM Evaluation
+## ⚡ Opik LLM Evaluation
